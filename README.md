@@ -10,7 +10,7 @@ This project runs the full tracker with private, per-account holdings, equity tr
 
 ## Deploy to Vercel
 
-1. Extract this ZIP and put its contents at the root of a private GitHub repository. Import the repository into Vercel. Let Vercel detect Flask.
+1. Import this repository into Vercel. Let Vercel detect Flask.
 2. Add these environment variables for **Production** in Vercel's project settings.
 
    | Name | Value |
